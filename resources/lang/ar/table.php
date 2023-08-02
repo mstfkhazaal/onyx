@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'title' => 'عنوان',
+    'active' => 'نشط',
+    'slug' => 'المعرف',
+    'key' => 'رمز',
+    'settings' => 'الإعدادات',
+    'default' => 'افتراضي',
+    'more' => 'المزيد',
+    'hint' => 'تَلمِيح',
+    'validation' => 'التحقق من الصحة',
+    'options' => 'خيارات',
+    'in_active' => 'غير مفعل',
+    'convert' => 'تحويل',
+    'active_confirmation' => 'تبديل (نشط / غير نشط)',
+    'created_at' => 'أنشئت في',
+    'updated_at' => 'محدث في',
+    'deleted_at' => 'محذوف في',
+    'export' => 'تصدير',
+    'api' => 'API',
+    'language' => 'اللغة',
+    'value' => 'القيمة',
+    'detach' => 'فصل',
+    'latitude' => 'خط العرض',
+    'longitude' => 'خط الطول',
+    'get_location' => 'احصل على الموقع',
+    'relevant' => 'ذو صلة',
+    'required' => 'مطلوب'
+];
